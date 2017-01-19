@@ -1,0 +1,5 @@
+{{#each model as |item|}}
+  {{#user-detail name=item.name phone=item.phone}}
+    <h6>{{item.username}}</h6>
+  {{/user-detail}}
+{{/each}}

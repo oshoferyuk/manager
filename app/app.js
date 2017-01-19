@@ -10,6 +10,8 @@ Ember.MODEL_FACTORY_INJECTIONS = true;
 App = Ember.Application.extend({
   modulePrefix: config.modulePrefix,
   podModulePrefix: config.podModulePrefix,
+  sourcemaps: {enabled: true},
+  lessOptions: {paths:['/app/styles/app.less']},
   Resolver
 });
 
