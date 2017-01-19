@@ -48,5 +48,5 @@ Specify what it takes to deploy your app.
 * [ember.js](http://emberjs.com/)
 * [ember-cli](https://ember-cli.com/)
 * Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+ * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
+ * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
